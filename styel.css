@@ -1,0 +1,183 @@
+header a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-right: 20px;
+    
+    
+}
+header a:hover{
+    background-color: lightgray;
+    border-bottom: 1px solid black;
+    color: salmon ;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+}
+h2{
+    text-align: center;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+header{
+    margin-top: 40px;
+    text-align: end;
+
+   
+    
+}
+.header-name{
+    color: tomato;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+
+
+
+.half-width h1{
+    font-family:sans-serif;
+font-size: 50px;
+color:rgba(46, 8, 2, 0.507);
+}
+.half-width p{
+    font-size: medium;
+ color:grey;
+}
+.section2 a{
+    background-image: linear-gradient(lightpink, deeppink);
+}
+
+.section-text{
+  margin-top: 150px;
+  padding: 20px;
+}
+
+
+.half-width
+{
+    width: 40%;
+ float: left;
+ margin-left: 40px;
+ padding-left: 40px;
+
+} 
+.half-width img
+{ 
+   width: 80%;
+   margin-right: 20px;
+}
+
+.link-btn{
+    
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    border: none;
+    border-radius: 5px;
+text-decoration: none;
+background:linear-gradient(blue , darkblue);
+  padding: 15px;
+  
+}
+.link-btn:hover{
+    box-shadow: 5px 5px 10px lightseagreen;
+}
+section
+{
+    margin-top: 100px;
+    height:500px;
+    
+}
+.section3-baner{
+    background:rgba(135, 206, 250, 0.26);
+}
+.cart-box img{
+    width: 100%;
+    
+}
+.cart-box{
+    width: 30%;
+    float: left;
+   
+    margin-right:18px;
+    margin-top: 10px;
+  
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+}
+.cart-box:hover{
+    box-shadow: 5px 5px 10px gray;
+}
+.section3-baner{
+    height: 600px;
+    padding: 60px;
+}
+
+
+.secation4{
+    height: 100px;
+
+  
+    background-image: url("./potfolio/shapes/Group_33094_1.png");
+    margin: 100px;
+    padding: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat; ;
+}
+.last-itam{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+    
+}
+.last-itam h2{
+  font-family: sans-serif;
+  font-size: 40px;
+  color: white;
+  margin-right:0px ;
+}
+.last-itam a{
+background-image: linear-gradient(tomato, orange);
+margin-left:250px;
+
+}
+
+.end-contant{
+   
+    text-align: center;
+}
+.end-contant2 img{
+margin-right: 5px;
+width: 25px;
+}
+.end-contant2{
+    text-align:center;
+}
+.end-section{
+    height: 250px;
+    
+}
+
+.end-section h1{
+ font-size: 40px;
+color: purple;
+font-family: sans-serif;
+}
+.end-section h6{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: gray;
+}
+
+footer{
+    font-family: sans-serif;
+    color: gray;
+    text-align: center;
+}
